@@ -1,2 +1,1 @@
-# .github
-Our official profile repository!
+What it do, Ed!
